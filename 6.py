@@ -1,4 +1,4 @@
-#lis
+#list
 print('list:')
 classmates=['abc','def','xyz']
 print(len(classmates))
